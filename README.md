@@ -21,7 +21,7 @@ The IAB Tech Lab spearheads the development of technical standards, creates and 
 
 The Dynamic Content Ad Standards Working Group is a working group within the IAB Technology Lab. Further details about the IAB Technology Lab can be found at: [www.iabtechlab.com](https://www.iabtechlab.com)
 
-For more detials on the working group, please visit [https://iabtechlab.com/working-groups/dynamic-content-ad-standards/](https://iabtechlab.com/working-groups/dynamic-content-ad-standards/)
+For more details on the working group, please visit [https://iabtechlab.com/working-groups/dynamic-content-ad-standards/](https://iabtechlab.com/working-groups/dynamic-content-ad-standards/)
 
 Shailley Singh  
 Senior Director of Product and R&D  
